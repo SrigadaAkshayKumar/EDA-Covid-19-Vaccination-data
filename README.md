@@ -1,7 +1,7 @@
 # COVID-19 Vaccination Data Analysis Dashboard
 
 ![COVID-19 Vaccination Dashboard](./Dashboard-image-1.png)
-[COVID-19 Vaccination Dashboard Advanced](./Dashboard-image-2.png)
+![COVID-19 Vaccination Dashboard Advanced](./Dashboard-image-2.png)
 
 ## Overview
 This Power BI dashboard provides an in-depth analysis of COVID-19 vaccination data across Indian states and Union Territories. The visualization includes key metrics such as the total number of doses administered (Dose 1, Dose 2, and Precaution Dose), population coverage, and state-wise distribution. The dashboard is designed to offer insights into the progress of the vaccination campaign, helping stakeholders understand the effectiveness and reach of the program.
